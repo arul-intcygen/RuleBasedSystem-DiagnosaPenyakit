@@ -1,0 +1,617 @@
+{
+  "Acne": {
+    "label": {
+      "en": "Acne",
+      "id": "Jerawat"
+    },
+    "description": {
+      "en": "A skin condition caused by clogged hair follicles.",
+      "id": "Kondisi kulit yang terjadi akibat pori-pori tersumbat."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Maintain skin hygiene and consult a doctor if severe.",
+      "id": "Jaga kebersihan kulit dan konsultasikan ke dokter jika parah."
+    }
+  },
+  "(vertigo) Paroymsal Positional Vertigo": {
+    "label": {
+      "en": "Paroxysmal Positional Vertigo (BPPV)",
+      "id": "Vertigo Posisi Paroksismal"
+    },
+    "description": {
+      "en": "A condition causing sudden sensation of spinning due to inner ear problems.",
+      "id": "Kondisi yang menyebabkan sensasi berputar tiba-tiba akibat masalah pada telinga dalam."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Perform Epley maneuver and consult an ENT specialist.",
+      "id": "Lakukan manuver Epley dan konsultasikan ke dokter THT."
+    }
+  },
+  "AIDS": {
+    "label": {
+      "en": "AIDS (Acquired Immunodeficiency Syndrome)",
+      "id": "AIDS (Sindrom Defisiensi Imun Dapatan)"
+    },
+    "description": {
+      "en": "A chronic, potentially life-threatening condition caused by HIV interfering with the body's ability to fight infection.",
+      "id": "Kondisi kronis yang mengancam jiwa akibat virus HIV yang merusak kemampuan tubuh melawan infeksi."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Immediate antiretroviral therapy (ART) and specialist care required.",
+      "id": "Segera lakukan terapi antiretroviral (ART) dan perawatan spesialis."
+    }
+  },
+  "Alcoholic hepatitis": {
+    "label": {
+      "en": "Alcoholic Hepatitis",
+      "id": "Hepatitis Alkoholik"
+    },
+    "description": {
+      "en": "Liver inflammation caused by drinking too much alcohol.",
+      "id": "Peradangan hati yang disebabkan oleh konsumsi alkohol berlebihan."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Stop alcohol consumption immediately and seek medical help.",
+      "id": "Hentikan konsumsi alkohol segera dan cari bantuan medis."
+    }
+  },
+  "Allergy": {
+    "label": {
+      "en": "Allergy",
+      "id": "Alergi"
+    },
+    "description": {
+      "en": "An immune system reaction to a foreign substance usually not harmful to your body.",
+      "id": "Reaksi sistem kekebalan tubuh terhadap zat asing yang biasanya tidak berbahaya."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Avoid triggers and take antihistamines.",
+      "id": "Hindari pemicu alergi dan minum obat antihistamin."
+    }
+  },
+  "Arthritis": {
+    "label": {
+      "en": "Arthritis",
+      "id": "Radang Sendi (Arthritis)"
+    },
+    "description": {
+      "en": "Swelling and tenderness of one or more joints.",
+      "id": "Pembengkakan dan nyeri pada satu atau lebih sendi."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Physical therapy and pain management medication.",
+      "id": "Lakukan fisioterapi dan gunakan obat pereda nyeri."
+    }
+  },
+  "Bronchial Asthma": {
+    "label": {
+      "en": "Bronchial Asthma",
+      "id": "Asma Bronkial"
+    },
+    "description": {
+      "en": "A condition in which airways narrow and swell and may produce extra mucus.",
+      "id": "Kondisi di mana saluran napas menyempit, membengkak, dan memproduksi lendir berlebih."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Use inhalers as prescribed and avoid respiratory triggers.",
+      "id": "Gunakan inhaler sesuai resep dan hindari pemicu pernapasan."
+    }
+  },
+  "Cervical spondylosis": {
+    "label": {
+      "en": "Cervical Spondylosis",
+      "id": "Spondilosis Servikal (Saraf Leher)"
+    },
+    "description": {
+      "en": "Age-related wear and tear affecting the spinal disks in your neck.",
+      "id": "Keausan terkait usia yang mempengaruhi cakram tulang belakang di leher."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Physical therapy, posture correction, and pain relief.",
+      "id": "Fisioterapi, perbaiki postur tubuh, dan pereda nyeri."
+    }
+  },
+  "Chicken pox": {
+    "label": {
+      "en": "Chicken Pox",
+      "id": "Cacar Air"
+    },
+    "description": {
+      "en": "A highly contagious viral infection causing an itchy, blister-like rash.",
+      "id": "Infeksi virus yang sangat menular menyebabkan ruam melepuh dan gatal."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Use calamine lotion for itching and isolate to prevent spread.",
+      "id": "Gunakan lotion calamine untuk gatal dan isolasi diri untuk mencegah penularan."
+    }
+  },
+  "Chronic cholestasis": {
+    "label": {
+      "en": "Chronic Cholestasis",
+      "id": "Kolestasis Kronis"
+    },
+    "description": {
+      "en": "A condition where bile flow from the liver acts slowly or stops completely.",
+      "id": "Kondisi di mana aliran empedu dari hati melambat atau berhenti total."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Requires medical diagnosis to treat the underlying liver condition.",
+      "id": "Memerlukan diagnosa medis untuk mengobati kondisi hati yang mendasarinya."
+    }
+  },
+  "Common Cold": {
+    "label": {
+      "en": "Common Cold",
+      "id": "Pilek / Flu Biasa"
+    },
+    "description": {
+      "en": "A viral infection of your nose and throat (upper respiratory tract).",
+      "id": "Infeksi virus pada hidung dan tenggorokan (saluran pernapasan atas)."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Rest, hydration, and over-the-counter cold remedies.",
+      "id": "Istirahat cukup, hidrasi, dan obat flu yang dijual bebas."
+    }
+  },
+  "Dengue": {
+    "label": {
+      "en": "Dengue Fever",
+      "id": "Demam Berdarah Dengue (DBD)"
+    },
+    "description": {
+      "en": "A mosquito-borne viral disease occurring in tropical and subtropical areas.",
+      "id": "Penyakit virus yang ditularkan oleh nyamuk, umum terjadi di daerah tropis."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Monitor platelet count, stay hydrated, and seek hospital care if bleeding occurs.",
+      "id": "Pantau trombosit, jaga hidrasi, dan segera ke RS jika terjadi pendarahan."
+    }
+  },
+  "Diabetes": {
+    "label": {
+      "en": "Diabetes",
+      "id": "Diabetes Melitus (Kencing Manis)"
+    },
+    "description": {
+      "en": "A chronic disease that occurs when the pancreas is no longer able to make insulin.",
+      "id": "Penyakit kronis yang terjadi ketika pankreas tidak lagi mampu memproduksi insulin."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Control blood sugar through diet, exercise, and insulin/medication.",
+      "id": "Kontrol gula darah melalui diet, olahraga, dan insulin/obat-obatan."
+    }
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "label": {
+      "en": "Hemorrhoids (Piles)",
+      "id": "Wasir / Ambeien"
+    },
+    "description": {
+      "en": "Swollen veins in your lower rectum.",
+      "id": "Pembengkakan pembuluh darah vena di bagian bawah rektum/anus."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "High-fiber diet, warm baths, and topical treatments.",
+      "id": "Diet tinggi serat, rendam air hangat, dan obat oles."
+    }
+  },
+  "Drug Reaction": {
+    "label": {
+      "en": "Drug Reaction",
+      "id": "Reaksi Obat (Alergi Obat)"
+    },
+    "description": {
+      "en": "An unexpected or dangerous reaction to a drug.",
+      "id": "Reaksi yang tidak diharapkan atau berbahaya terhadap suatu obat."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Stop taking the medication immediately and consult a doctor.",
+      "id": "Hentikan penggunaan obat segera dan konsultasikan ke dokter."
+    }
+  },
+  "Fungal infection": {
+    "label": {
+      "en": "Fungal Infection",
+      "id": "Infeksi Jamur Kulit"
+    },
+    "description": {
+      "en": "A skin disease caused by a fungus (e.g., ringworm).",
+      "id": "Penyakit kulit yang disebabkan oleh jamur (seperti kurap/panu)."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Apply antifungal cream and keep the area dry.",
+      "id": "Oleskan krim antijamur dan jaga area tetap kering."
+    }
+  },
+  "GERD": {
+    "label": {
+      "en": "GERD (Acid Reflux)",
+      "id": "GERD (Asam Lambung)"
+    },
+    "description": {
+      "en": "Digestive disease in which stomach acid or bile irritates the food pipe lining.",
+      "id": "Penyakit pencernaan di mana asam lambung mengiritasi lapisan kerongkongan."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Avoid spicy foods, do not lie down after eating, and take antacids.",
+      "id": "Hindari makanan pedas, jangan berbaring setelah makan, dan minum antasida."
+    }
+  },
+  "Gastroenteritis": {
+    "label": {
+      "en": "Gastroenteritis",
+      "id": "Gastroenteritis (Muntaber)"
+    },
+    "description": {
+      "en": "An intestinal infection marked by watery diarrhea, abdominal cramps, nausea or vomiting.",
+      "id": "Infeksi usus yang ditandai dengan diare cair, kram perut, mual, atau muntah."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Stay hydrated with oral rehydration salts (ORS) and rest.",
+      "id": "Jaga hidrasi dengan oralit dan istirahat yang cukup."
+    }
+  },
+  "Heart attack": {
+    "label": {
+      "en": "Heart Attack",
+      "id": "Serangan Jantung"
+    },
+    "description": {
+      "en": "A blockage of blood flow to the heart muscle.",
+      "id": "Penyumbatan aliran darah ke otot jantung."
+    },
+    "severity": "critical",
+    "recommendation": {
+      "en": "Medical Emergency! Call an ambulance immediately.",
+      "id": "Gawat Darurat! Panggil ambulans atau segera ke IGD."
+    }
+  },
+  "Hepatitis B": {
+    "label": {
+      "en": "Hepatitis B",
+      "id": "Hepatitis B"
+    },
+    "description": {
+      "en": "A serious liver infection caused by the hepatitis B virus (HBV).",
+      "id": "Infeksi hati serius yang disebabkan oleh virus hepatitis B (HBV)."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Antiviral medications and regular liver monitoring.",
+      "id": "Obat antivirus dan pemantauan fungsi hati secara rutin."
+    }
+  },
+  "Hepatitis C": {
+    "label": {
+      "en": "Hepatitis C",
+      "id": "Hepatitis C"
+    },
+    "description": {
+      "en": "A viral infection that causes liver inflammation, sometimes leading to serious liver damage.",
+      "id": "Infeksi virus yang menyebabkan peradangan hati, terkadang memicu kerusakan hati serius."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Consult a specialist for antiviral therapy (DAA).",
+      "id": "Konsultasikan ke spesialis untuk terapi antivirus (DAA)."
+    }
+  },
+  "Hepatitis D": {
+    "label": {
+      "en": "Hepatitis D",
+      "id": "Hepatitis D"
+    },
+    "description": {
+      "en": "A serious liver disease caused by the hepatitis D virus (HDV), only occurs in people infected with Hepatitis B.",
+      "id": "Penyakit hati serius akibat virus HDV, hanya terjadi pada orang yang sudah terinfeksi Hepatitis B."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Supportive care and management of Hepatitis B co-infection.",
+      "id": "Perawatan suportif dan pengelolaan koinfeksi Hepatitis B."
+    }
+  },
+  "Hepatitis E": {
+    "label": {
+      "en": "Hepatitis E",
+      "id": "Hepatitis E"
+    },
+    "description": {
+      "en": "A liver disease caused by the hepatitis E virus, usually transmitted via contaminated water.",
+      "id": "Penyakit hati akibat virus hepatitis E, biasanya menular melalui air yang terkontaminasi."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Rest, adequate nutrition and fluids; avoid alcohol and toxic substances.",
+      "id": "Istirahat, cukup nutrisi dan cairan; hindari alkohol dan zat toksik."
+    }
+  },
+  "Hypertension": {
+    "label": {
+      "en": "Hypertension",
+      "id": "Hipertensi (Darah Tinggi)"
+    },
+    "description": {
+      "en": "A condition in which the force of the blood against the artery walls is too high.",
+      "id": "Kondisi di mana tekanan darah terhadap dinding arteri terlalu tinggi."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Reduce salt intake, exercise regularly, and take prescribed medication.",
+      "id": "Kurangi garam, olahraga teratur, dan minum obat sesuai resep."
+    }
+  },
+  "Hyperthyroidism": {
+    "label": {
+      "en": "Hyperthyroidism",
+      "id": "Hipertiroidisme (Tiroid Aktif)"
+    },
+    "description": {
+      "en": "The overproduction of a hormone by the butterfly-shaped gland in the neck (thyroid).",
+      "id": "Produksi berlebih hormon oleh kelenjar berbentuk kupu-kupu di leher (tiroid)."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Treatment involves anti-thyroid medications or radioactive iodine.",
+      "id": "Pengobatan melibatkan obat anti-tiroid atau yodium radioaktif."
+    }
+  },
+  "Hypoglycemia": {
+    "label": {
+      "en": "Hypoglycemia",
+      "id": "Hipoglikemia (Gula Darah Rendah)"
+    },
+    "description": {
+      "en": "Low blood sugar level, the body's main energy source.",
+      "id": "Kadar gula darah rendah, padahal gula adalah sumber energi utama tubuh."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Consume fast-acting carbohydrates (sugar, juice) immediately.",
+      "id": "Segera konsumsi karbohidrat cepat serap (gula, jus, permen)."
+    }
+  },
+  "Hypothyroidism": {
+    "label": {
+      "en": "Hypothyroidism",
+      "id": "Hipotiroidisme (Tiroid Lambat)"
+    },
+    "description": {
+      "en": "A condition in which the thyroid gland doesn't produce enough thyroid hormone.",
+      "id": "Kondisi di mana kelenjar tiroid tidak memproduksi cukup hormon tiroid."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Daily use of synthetic thyroid hormone levothyroxine.",
+      "id": "Penggunaan hormon tiroid sintetik levothyroxine setiap hari."
+    }
+  },
+  "Impetigo": {
+    "label": {
+      "en": "Impetigo",
+      "id": "Impetigo (Infeksi Kulit)"
+    },
+    "description": {
+      "en": "A highly contagious skin infection that mainly affects infants and children.",
+      "id": "Infeksi kulit yang sangat menular, terutama menyerang bayi dan anak-anak."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Antibiotic ointment or oral antibiotics; keep sores covered.",
+      "id": "Salep antibiotik atau antibiotik minum; tutup luka agar tidak menular."
+    }
+  },
+  "Jaundice": {
+    "label": {
+      "en": "Jaundice",
+      "id": "Penyakit Kuning (Ikterus)"
+    },
+    "description": {
+      "en": "Yellowing of the skin and eyes caused by high levels of bilirubin.",
+      "id": "Warna kuning pada kulit dan mata akibat tingginya kadar bilirubin."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Treat the underlying cause (liver/gallbladder issue) immediately.",
+      "id": "Segera obati penyebab dasarnya (masalah hati/empedu)."
+    }
+  },
+  "Malaria": {
+    "label": {
+      "en": "Malaria",
+      "id": "Malaria"
+    },
+    "description": {
+      "en": "A disease caused by a plasmodium parasite, transmitted by the bite of infected mosquitoes.",
+      "id": "Penyakit akibat parasit plasmodium yang ditularkan melalui gigitan nyamuk terinfeksi."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Prescription antimalarial drugs; prevention using mosquito nets.",
+      "id": "Obat antimalaria resep dokter; pencegahan menggunakan kelambu."
+    }
+  },
+  "Migraine": {
+    "label": {
+      "en": "Migraine",
+      "id": "Migrain"
+    },
+    "description": {
+      "en": "A headache of varying intensity, often accompanied by nausea and sensitivity to light.",
+      "id": "Sakit kepala dengan intensitas bervariasi, sering disertai mual dan sensitif cahaya."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Rest in a quiet, dark room; pain relievers or triptans.",
+      "id": "Istirahat di ruangan gelap dan tenang; minum pereda nyeri."
+    }
+  },
+  "Osteoarthristis": {
+    "label": {
+      "en": "Osteoarthritis",
+      "id": "Osteoartritis (Pengapuran Sendi)"
+    },
+    "description": {
+      "en": "A type of arthritis that occurs when flexible tissue at the ends of bones wears down.",
+      "id": "Jenis radang sendi yang terjadi ketika bantalan tulang rawan di ujung tulang menipis."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Weight management, exercise, and pain relief medication.",
+      "id": "Jaga berat badan, olahraga ringan, dan obat pereda nyeri."
+    }
+  },
+  "Paralysis (brain hemorrhage)": {
+    "label": {
+      "en": "Paralysis (Hemorrhagic Stroke)",
+      "id": "Kelumpuhan (Stroke Pendarahan)"
+    },
+    "description": {
+      "en": "Loss of muscle function caused by bleeding in the brain.",
+      "id": "Hilangnya fungsi otot akibat pendarahan di dalam otak."
+    },
+    "severity": "critical",
+    "recommendation": {
+      "en": "Critical Emergency! Immediate hospitalization and neurosurgical evaluation.",
+      "id": "Gawat Darurat Kritis! Segera bawa ke RS untuk evaluasi bedah saraf."
+    }
+  },
+  "Peptic ulcer diseae": {
+    "label": {
+      "en": "Peptic Ulcer Disease",
+      "id": "Tukak Lambung"
+    },
+    "description": {
+      "en": "Open sores that develop on the inside lining of your stomach and the upper portion of your small intestine.",
+      "id": "Luka terbuka yang terbentuk di lapisan dalam lambung dan bagian atas usus kecil."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Avoid NSAIDs, alcohol, and spicy foods; antibiotics if H. pylori infection is present.",
+      "id": "Hindari obat pereda nyeri (NSAID), alkohol, dan pedas; antibiotik jika ada infeksi bakteri H. pylori."
+    }
+  },
+  "Pneumonia": {
+    "label": {
+      "en": "Pneumonia",
+      "id": "Pneumonia (Radang Paru-paru)"
+    },
+    "description": {
+      "en": "Infection that inflames air sacs in one or both lungs, which may fill with fluid.",
+      "id": "Infeksi yang menyebabkan peradangan pada kantung udara di paru-paru, yang bisa terisi cairan/nanah."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Antibiotics (if bacterial), antivirals (if viral), rest, and fluids.",
+      "id": "Antibiotik (jika bakteri), antivirus (jika virus), istirahat total, dan banyak minum."
+    }
+  },
+  "Psoriasis": {
+    "label": {
+      "en": "Psoriasis",
+      "id": "Psoriasis"
+    },
+    "description": {
+      "en": "A skin disease that causes a rash with itchy, scaly patches, most commonly on the knees, elbows, trunk and scalp.",
+      "id": "Penyakit kulit autoimun yang menyebabkan ruam bersisik dan gatal, sering di lutut, siku, dan kulit kepala."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Topical corticosteroids, light therapy, and moisturizers.",
+      "id": "Kortikosteroid oles, terapi cahaya, dan pelembap."
+    }
+  },
+  "Tuberculosis": {
+    "label": {
+      "en": "Tuberculosis (TB)",
+      "id": "Tuberkulosis (TBC)"
+    },
+    "description": {
+      "en": "A potentially serious infectious bacterial disease that mainly affects the lungs.",
+      "id": "Penyakit infeksi bakteri serius yang terutama menyerang paru-paru."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Strict adherence to a long-term antibiotic course (6-9 months).",
+      "id": "Patuhi pengobatan antibiotik jangka panjang (6-9 bulan) tanpa putus."
+    }
+  },
+  "Typhoid": {
+    "label": {
+      "en": "Typhoid Fever",
+      "id": "Demam Tifoid (Tipes)"
+    },
+    "description": {
+      "en": "A bacterial infection that can lead to a high fever, diarrhea, and vomiting.",
+      "id": "Infeksi bakteri Salmonella typhi yang menyebabkan demam tinggi, diare, dan masalah pencernaan."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Antibiotics, fluids for hydration, and careful diet.",
+      "id": "Antibiotik, cairan untuk hidrasi, dan diet makanan lunak."
+    }
+  },
+  "Urinary tract infection": {
+    "label": {
+      "en": "Urinary Tract Infection (UTI)",
+      "id": "Infeksi Saluran Kemih (ISK)"
+    },
+    "description": {
+      "en": "An infection in any part of your urinary system — your kidneys, bladder, or urethra.",
+      "id": "Infeksi di bagian mana pun dari sistem kemih — ginjal, kandung kemih, atau uretra."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Antibiotics and increased water intake.",
+      "id": "Antibiotik dan perbanyak minum air putih."
+    }
+  },
+  "Varicose veins": {
+    "label": {
+      "en": "Varicose Veins",
+      "id": "Varises"
+    },
+    "description": {
+      "en": "Gnarled, enlarged veins, most commonly appearing in the legs and feet.",
+      "id": "Pembuluh darah vena yang membesar dan berkelok-kelok, biasanya di kaki."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Compression stockings, exercise, and elevating legs.",
+      "id": "Gunakan stoking kompresi, olahraga, dan angkat kaki saat berbaring."
+    }
+  },
+  "Hepatitis A": {
+    "label": {
+      "en": "Hepatitis A",
+      "id": "Hepatitis A"
+    },
+    "description": {
+      "en": "A highly contagious liver infection caused by the hepatitis A virus.",
+      "id": "Infeksi hati yang sangat menular akibat virus hepatitis A (biasanya dari makanan/air)."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Rest and hydration; the body usually clears the virus on its own.",
+      "id": "Istirahat dan hidrasi; tubuh biasanya membersihkan virus dengan sendirinya."
+    }
+  }
+}

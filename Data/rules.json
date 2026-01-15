@@ -1,5 +1,4 @@
 [
-
     {
         "rule_id": "R001",
         "disease": "Acne",
@@ -565,18 +564,6 @@
             "S018", 
             "S044", 
             "S084"
-        ]
-    },
-    {
-        "rule_id": "R042",
-        "disease": "(vertigo) Paroymsal Positional Vertigo",
-        "symptoms": [
-            "S005", 
-            "S006", 
-            "S003", 
-            "S004", 
-            "S007", 
-            "S131"
         ]
     }
 ]
