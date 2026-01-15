@@ -1,0 +1,657 @@
+{
+    "skin_rash": {
+        "id": "S001",
+        "label_en": "Skin Rash",
+        "label_in": "Ruam Kulit"
+    },
+    "itching": {
+        "id": "S002",
+        "label_en": "Itching",
+        "label_in": "Gatal"
+    },
+    "vomiting": {
+        "id": "S003",
+        "label_en": "Vomiting",
+        "label_in": "Muntah"
+    },
+    "headache": {
+        "id": "S004",
+        "label_en": "Headache",
+        "label_in": "Sakit Kepala"
+    },
+    "loss_of_balance": {
+        "id": "S005",
+        "label_en": "Loss of Balance",
+        "label_in": "Kehilangan Keseimbangan"
+    },
+    "nausea": {
+        "id": "S006",
+        "label_en": "Nausea",
+        "label_in": "Mual"
+    },
+    "unsteadiness": {
+        "id": "S007",
+        "label_en": "Unsteadiness",
+        "label_in": "Limbung"
+    },
+    "muscle_wasting": {
+        "id": "S008",
+        "label_en": "Muscle Wasting",
+        "label_in": "Otot mengecil"
+    },
+    "high_fever": {
+        "id": "S009",
+        "label_en": "High Fever",
+        "label_in": "Demam Tinggi"
+    },
+    "patches_in_throat": {
+        "id": "S010",
+        "label_en": "Patches In Throat",
+        "label_in": "Bercak Abu Di Tenggorokan"
+    },
+    "extra_marital_contacts": {
+        "id": "S011",
+        "label_en": "Extra Marital Contacts",
+        "label_in": "Hubungan Seksual di Luar Nikah"
+    },
+    "scarring": {
+        "id": "S012",
+        "label_en": "Scarring",
+        "label_in": "Bekas Luka"
+    },
+    "pus_filled_pimples": {
+        "id": "S013",
+        "label_en": "Pus Filled Pimples",
+        "label_in": "Jerawat Bernanah"
+    },
+    "blackheads": {
+        "id": "S014",
+        "label_en": "Blackheads",
+        "label_in": "Komedo Hitam"
+    },
+    "abdominal_pain": {
+        "id": "S015",
+        "label_en": "Abdominal Pain",
+        "label_in": "Nyeri Perut"
+    },
+    "swelling_of_stomach": {
+        "id": "S016",
+        "label_en": "Swelling Of Stomach",
+        "label_in": "Perut Membengkak"
+    },
+    "history_of_alcohol_consumption": {
+        "id": "S017",
+        "label_en": "History Of Alcohol Consumption",
+        "label_in": "Riwayat Konsumsi Alkohol"
+    },
+    "yellowish_skin": {
+        "id": "S018",
+        "label_en": "Yellowish Skin",
+        "label_in": "Kulit Menguning"
+    },
+    "fluid_overload": {
+        "id": "S019",
+        "label_en": "Fluid Overload",
+        "label_in": "Kelebihan Cairan"
+    },
+    "distention_of_abdomen": {
+        "id": "S020",
+        "label_en": "Distention Of Abdomen",
+        "label_in": "Perut Kembung/Membuncit"
+    },
+    "chills": {
+        "id": "S021",
+        "label_en": "Chills",
+        "label_in": "Menggigil"
+    },
+    "continuous_sneezing": {
+        "id": "S022",
+        "label_en": "Continuous Sneezing",
+        "label_in": "Bersin Terus-menerus"
+    },
+    "watering_from_eyes": {
+        "id": "S023",
+        "label_en": "Watering From Eyes",
+        "label_in": "Mata Berair"
+    },
+    "shivering": {
+        "id": "S024",
+        "label_en": "Shivering",
+        "label_in": "Gemetar"
+    },
+    "swelling_joints": {
+        "id": "S025",
+        "label_en": "Swelling Joints",
+        "label_in": "Pembengkakan Sendi"
+    },
+    "muscle_weakness": {
+        "id": "S026",
+        "label_en": "Muscle Weakness",
+        "label_in": "Kelemahan Otot"
+    },
+    "stiff_neck": {
+        "id": "S027",
+        "label_en": "Stiff Neck",
+        "label_in": "Leher Kaku"
+    },
+    "movement_stiffness": {
+        "id": "S028",
+        "label_en": "Movement Stiffness",
+        "label_in": "Kaku Saat Bergerak"
+    },
+    "painful_walking": {
+        "id": "S029",
+        "label_en": "Painful Walking",
+        "label_in": "Nyeri Saat Berjalan"
+    },
+    "mucoid_sputum": {
+        "id": "S030",
+        "label_en": "Mucoid Sputum",
+        "label_in": "Dahak Berlendir"
+    },
+    "cough": {
+        "id": "S031",
+        "label_en": "Cough",
+        "label_in": "Batuk"
+    },
+    "fatigue": {
+        "id": "S032",
+        "label_en": "Fatigue",
+        "label_in": "Kelelahan"
+    },
+    "family_history": {
+        "id": "S033",
+        "label_en": "Family History",
+        "label_in": "Riwayat Keluarga"
+    },
+    "breathlessness": {
+        "id": "S034",
+        "label_en": "Breathlessness",
+        "label_in": "Sesak Napas"
+    },
+    "back_pain": {
+        "id": "S035",
+        "label_en": "Back Pain",
+        "label_in": "Nyeri Punggung"
+    },
+    "dizziness": {
+        "id": "S036",
+        "label_en": "Dizziness",
+        "label_in": "Pening / Pusing Ringan"
+    },
+    "weakness_in_limbs": {
+        "id": "S037",
+        "label_en": "Weakness In Limbs",
+        "label_in": "Kelemahan Anggota Gerak"
+    },
+    "neck_pain": {
+        "id": "S038",
+        "label_en": "Neck Pain",
+        "label_in": "Nyeri Leher"
+    },
+    "red_spots_over_body": {
+        "id": "S039",
+        "label_en": "Red Spots Over Body",
+        "label_in": "Bintik Merah di Sekujur Tubuh"
+    },
+    "loss_of_appetite": {
+        "id": "S040",
+        "label_en": "Loss Of Appetite",
+        "label_in": "Nafsu Makan Berkurang"
+    },
+    "malaise": {
+        "id": "S041",
+        "label_en": "Malaise",
+        "label_in": "Malaise / Rasa Tidak Enak Badan"
+    },
+    "lethargy": {
+        "id": "S042",
+        "label_en": "Lethargy",
+        "label_in": "Letargi / Lesu Parah"
+    },
+    "swelled_lymph_nodes": {
+        "id": "S043",
+        "label_en": "Swelled Lymph Nodes",
+        "label_in": "Pembengkakan Kelenjar Getah Bening"
+    },
+    "mild_fever": {
+        "id": "S044",
+        "label_en": "Mild Fever",
+        "label_in": "Demam Ringan / Meriang"
+    },
+    "yellowing_of_eyes": {
+        "id": "S045",
+        "label_en": "Yellowing Of Eyes",
+        "label_in": "Mata Menguning"
+    },
+    "sinus_pressure": {
+        "id": "S046",
+        "label_en": "Sinus Pressure",
+        "label_in": "Tekanan pada Sinus"
+    },
+    "chest_pain": {
+        "id": "S047",
+        "label_en": "Chest Pain",
+        "label_in": "Nyeri Dada"
+    },
+    "loss_of_smell": {
+        "id": "S048",
+        "label_en": "Loss Of Smell",
+        "label_in": "Anosmia / Hilang Indra Penciuman"
+    },
+    "congestion": {
+        "id": "S049",
+        "label_en": "Congestion",
+        "label_in": "Hidung Tersumbat"
+    },
+    "runny_nose": {
+        "id": "S050",
+        "label_en": "Runny Nose",
+        "label_in": "Hidung Berair / Pilek"
+    },
+    "phlegm": {
+        "id": "S051",
+        "label_en": "Phlegm",
+        "label_in": "Dahak / Lendir"
+    },
+    "muscle_pain": {
+        "id": "S052",
+        "label_en": "Muscle Pain",
+        "label_in": "Nyeri Otot"
+    },
+    "redness_of_eyes": {
+        "id": "S053",
+        "label_en": "Redness Of Eyes",
+        "label_in": "Mata Memerah"
+    },
+    "throat_irritation": {
+        "id": "S054",
+        "label_en": "Throat Irritation",
+        "label_in": "Iritasi Tenggorokan"
+    },
+    "joint_pain": {
+        "id": "S055",
+        "label_en": "Joint Pain",
+        "label_in": "Nyeri Sendi"
+    },
+    "pain_behind_the_eyes": {
+        "id": "S056",
+        "label_en": "Pain Behind The Eyes",
+        "label_in": "Nyeri di Belakang Mata"
+    },
+    "restlessness": {
+        "id": "S057",
+        "label_en": "Restlessness",
+        "label_in": "Gelisah / Tidak Bisa Diam"
+    },
+    "weight_loss": {
+        "id": "S058",
+        "label_en": "Weight Loss",
+        "label_in": "Penurunan Berat Badan"
+    },
+    "increased_appetite": {
+        "id": "S059",
+        "label_en": "Increased Appetite",
+        "label_in": "Nafsu Makan Meningkat"
+    },
+    "excessive_hunger": {
+        "id": "S060",
+        "label_en": "Excessive Hunger",
+        "label_in": "Rasa Lapar Berlebih"
+    },
+    "obesity": {
+        "id": "S061",
+        "label_en": "Obesity",
+        "label_in": "Obesitas / Kegemukan"
+    },
+    "irregular_sugar_level": {
+        "id": "S062",
+        "label_en": "Irregular Sugar Level",
+        "label_in": "Kadar Gula Darah Tidak Teratur"
+    },
+    "polyuria": {
+        "id": "S063",
+        "label_en": "Polyuria",
+        "label_in": "Sering Buang Air Kecil (Volume Banyak)"
+    },
+    "blurred_and_distorted_vision": {
+        "id": "S064",
+        "label_en": "Blurred And Distorted Vision",
+        "label_in": "Pandangan Kabur dan Terdistorsi"
+    },
+    "constipation": {
+        "id": "S065",
+        "label_en": "Constipation",
+        "label_in": "Sembelit / Konstipasi"
+    },
+    "bloody_stool": {
+        "id": "S066",
+        "label_en": "Bloody Stool",
+        "label_in": "BAB Berdarah"
+    },
+    "pain_in_anal_region": {
+        "id": "S067",
+        "label_en": "Pain In Anal Region",
+        "label_in": "Nyeri pada Area Anus"
+    },
+    "irritation_in_anus": {
+        "id": "S068",
+        "label_en": "Irritation In Anus",
+        "label_in": "Iritasi pada Anus"
+    },
+    "pain_during_bowel_movements": {
+        "id": "S069",
+        "label_en": "Pain During Bowel Movements",
+        "label_in": "Nyeri Saat Buang Air Besar"
+    },
+    "stomach_pain": {
+        "id": "S070",
+        "label_en": "Stomach Pain",
+        "label_in": "Sakit Lambung / Perut Bagian Atas"
+    },
+    "burning_micturition": {
+        "id": "S071",
+        "label_en": "Burning Micturition",
+        "label_in": "Nyeri Panas Saat Buang Air Kecil"
+    },
+    "spotting_urination": {
+        "id": "S072",
+        "label_en": "Spotting Urination",
+        "label_in": "Urin Bercak Darah"
+    },
+    "nodal_skin_eruptions": {
+        "id": "S073",
+        "label_en": "Nodal Skin Eruptions",
+        "label_in": "Benjolan/Erupsi pada Kulit"
+    },
+    "dischromic_patches": {
+        "id": "S074",
+        "label_en": "Dischromic Patches",
+        "label_in": "Perubahan Warna Kulit Bercak-bercak"
+    },
+    "ulcers_on_tongue": {
+        "id": "S075",
+        "label_en": "Ulcers On Tongue",
+        "label_in": "Luka/Sariawan pada Lidah"
+    },
+    "acidity": {
+        "id": "S076",
+        "label_en": "Acidity",
+        "label_in": "Asam Lambung Naik"
+    },
+    "diarrhoea": {
+        "id": "S077",
+        "label_en": "Diarrhoea",
+        "label_in": "Diare"
+    },
+    "dehydration": {
+        "id": "S078",
+        "label_en": "Dehydration",
+        "label_in": "Dehidrasi"
+    },
+    "sunken_eyes": {
+        "id": "S079",
+        "label_en": "Sunken Eyes",
+        "label_in": "Mata Cekung"
+    },
+    "sweating": {
+        "id": "S080",
+        "label_en": "Sweating",
+        "label_in": "Keringat Berlebih"
+    },
+    "receiving_blood_transfusion": {
+        "id": "S081",
+        "label_en": "Receiving Blood Transfusion",
+        "label_in": "Riwayat Transfusi Darah"
+    },
+    "yellow_urine": {
+        "id": "S082",
+        "label_en": "Yellow Urine",
+        "label_in": "Urin Berwarna Kuning"
+    },
+    "receiving_unsterile_injections": {
+        "id": "S083",
+        "label_en": "Receiving Unsterile Injections",
+        "label_in": "Riwayat Suntikan Tidak Steril"
+    },
+    "dark_urine": {
+        "id": "S084",
+        "label_en": "Dark Urine",
+        "label_in": "Urin Berwarna Gelap/Pekat"
+    },
+    "coma": {
+        "id": "S085",
+        "label_en": "Coma",
+        "label_in": "Koma / Penurunan Kesadaran Dalam"
+    },
+    "acute_liver_failure": {
+        "id": "S086",
+        "label_en": "Acute Liver Failure",
+        "label_in": "Gagal Hati Akut"
+    },
+    "stomach_bleeding": {
+        "id": "S087",
+        "label_en": "Stomach Bleeding",
+        "label_in": "Pendarahan Lambung"
+    },
+    "lack_of_concentration": {
+        "id": "S088",
+        "label_en": "Lack Of Concentration",
+        "label_in": "Sulit Berkonsentrasi"
+    },
+    "irritability": {
+        "id": "S089",
+        "label_en": "Irritability",
+        "label_in": "Mudah Marah / Sensitif"
+    },
+    "mood_swings": {
+        "id": "S090",
+        "label_en": "Mood Swings",
+        "label_in": "Perubahan Suasana Hati"
+    },
+    "fast_heart_rate": {
+        "id": "S091",
+        "label_en": "Fast Heart Rate",
+        "label_in": "Detak Jantung Cepat (Takikardia)"
+    },
+    "abnormal_menstruation": {
+        "id": "S092",
+        "label_en": "Abnormal Menstruation",
+        "label_in": "Haid Tidak Teratur"
+    },
+    "drying_and_tingling_lips": {
+        "id": "S093",
+        "label_en": "Drying And Tingling Lips",
+        "label_in": "Bibir Kering dan Kesemutan"
+    },
+    "slurred_speech": {
+        "id": "S094",
+        "label_en": "Slurred Speech",
+        "label_in": "Bicara Pelo / Tidak Jelas"
+    },
+    "palpitations": {
+        "id": "S095",
+        "label_en": "Palpitations",
+        "label_in": "Berdebar-debar"
+    },
+    "anxiety": {
+        "id": "S096",
+        "label_en": "Anxiety",
+        "label_in": "Kecemasan / Gelisah"
+    },
+    "brittle_nails": {
+        "id": "S097",
+        "label_en": "Brittle Nails",
+        "label_in": "Kuku Rapuh"
+    },
+    "depression": {
+        "id": "S098",
+        "label_en": "Depression",
+        "label_in": "Depresi"
+    },
+    "weight_gain": {
+        "id": "S099",
+        "label_en": "Weight Gain",
+        "label_in": "Kenaikan Berat Badan"
+    },
+    "cold_hands_and_feets": {
+        "id": "S100",
+        "label_en": "Cold Hands And Feets",
+        "label_in": "Tangan dan Kaki Dingin"
+    },
+    "swollen_extremeties": {
+        "id": "S101",
+        "label_en": "Swollen Extremeties",
+        "label_in": "Pembengkakan Anggota Gerak (Tangan/Kaki)"
+    },
+    "enlarged_thyroid": {
+        "id": "S102",
+        "label_en": "Enlarged Thyroid",
+        "label_in": "Pembesaran Kelenjar Tiroid (Gondok)"
+    },
+    "puffy_face_and_eyes": {
+        "id": "S103",
+        "label_en": "Puffy Face And Eyes",
+        "label_in": "Wajah dan Mata Sembap"
+    },
+    "yellow_crust_ooze": {
+        "id": "S104",
+        "label_en": "Yellow Crust Ooze",
+        "label_in": "Cairan Kerak Kuning pada Kulit"
+    },
+    "blister": {
+        "id": "S105",
+        "label_en": "Blister",
+        "label_in": "Lepuhan Kulit"
+    },
+    "red_sore_around_nose": {
+        "id": "S106",
+        "label_en": "Red Sore Around Nose",
+        "label_in": "Luka Merah di Sekitar Hidung"
+    },
+    "indigestion": {
+        "id": "S107",
+        "label_en": "Indigestion",
+        "label_in": "Gangguan Pencernaan / Maag"
+    },
+    "visual_disturbances": {
+        "id": "S108",
+        "label_en": "Visual Disturbances",
+        "label_in": "Gangguan Penglihatan"
+    },
+    "hip_joint_pain": {
+        "id": "S109",
+        "label_en": "Hip Joint Pain",
+        "label_in": "Nyeri Sendi Pinggul"
+    },
+    "knee_pain": {
+        "id": "S110",
+        "label_en": "Knee Pain",
+        "label_in": "Nyeri Lutut"
+    },
+    "weakness_of_one_body_side": {
+        "id": "S111",
+        "label_en": "Weakness Of One Body Side",
+        "label_in": "Lumpuh/Lemah Sebelah Sisi Tubuh"
+    },
+    "altered_sensorium": {
+        "id": "S112",
+        "label_en": "Altered Sensorium",
+        "label_in": "Penurunan Kesadaran / Kebingungan Parah"
+    },
+    "passage_of_gases": {
+        "id": "S113",
+        "label_en": "Passage Of Gases",
+        "label_in": "Sering Buang Angin / Kentut"
+    },
+    "internal_itching": {
+        "id": "S114",
+        "label_en": "Internal Itching",
+        "label_in": "Gatal Internal (Terasa di Dalam Tubuh)"
+    },
+    "rusty_sputum": {
+        "id": "S115",
+        "label_en": "Rusty Sputum",
+        "label_in": "Dahak Berwarna Karat"
+    },
+    "skin_peeling": {
+        "id": "S116",
+        "label_en": "Skin Peeling",
+        "label_in": "Kulit Mengelupas"
+    },
+    "silver_like_dusting": {
+        "id": "S117",
+        "label_en": "Silver Like Dusting",
+        "label_in": "Sisik Berwarna Perak pada Kulit"
+    },
+    "inflammatory_nails": {
+        "id": "S118",
+        "label_en": "Inflammatory Nails",
+        "label_in": "Peradangan pada Kuku"
+    },
+    "small_dents_in_nails": {
+        "id": "S119",
+        "label_en": "Small Dents In Nails",
+        "label_in": "Lekukan Kecil pada Kuku (Pitting)"
+    },
+    "blood_in_sputum": {
+        "id": "S120",
+        "label_en": "Blood In Sputum",
+        "label_in": "Batuk Berdarah"
+    },
+    "belly_pain": {
+        "id": "S121",
+        "label_en": "Belly Pain",
+        "label_in": "Sakit Perut / Mulas"
+    },
+    "toxic_look_(typhos)": {
+        "id": "S122",
+        "label_en": "Toxic Look (Typhos)",
+        "label_in": "Wajah Tampak Lesu Berat (Muka Tifus)"
+    },
+    "bladder_discomfort": {
+        "id": "S123",
+        "label_en": "Bladder Discomfort",
+        "label_in": "Rasa Tidak Nyaman pada Kandung Kemih"
+    },
+    "foul_smell_of_urine": {
+        "id": "S124",
+        "label_en": "Foul Smell Of Urine",
+        "label_in": "Urin Berbau Menyengat/Busuk"
+    },
+    "continuous_feel_of_urine": {
+        "id": "S125",
+        "label_en": "Continuous Feel Of Urine",
+        "label_in": "Keinginan Buang Air Kecil Terus-menerus"
+    },
+    "cramps": {
+        "id": "S126",
+        "label_en": "Cramps",
+        "label_in": "Kram"
+    },
+    "swollen_legs": {
+        "id": "S127",
+        "label_en": "Swollen Legs",
+        "label_in": "Kaki Membengkak"
+    },
+    "swollen_blood_vessels": {
+        "id": "S128",
+        "label_en": "Swollen Blood Vessels",
+        "label_in": "Pembengkakan Pembuluh Darah"
+    },
+    "prominent_veins_on_calf": {
+        "id": "S129",
+        "label_en": "Prominent Veins On Calf",
+        "label_in": "Urat Menonjol pada Betis (Varises)"
+    },
+    "bruising": {
+        "id": "S130",
+        "label_en": "Bruising",
+        "label_in": "Memar"
+    },
+    "spinning_movements": {
+        "id": "S131",
+        "label_en": "Spinning Movements",
+        "label_in": "Sensasi Berputar (Vertigo)"
+    }
+}

@@ -1,0 +1,167 @@
+{
+  "Acne": {
+    "label": {
+      "en": "Acne",
+      "id": "Jerawat"
+    },
+    "description": {
+      "en": "A skin condition caused by clogged hair follicles.",
+      "id": "Kondisi kulit yang terjadi akibat pori-pori tersumbat."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Maintain skin hygiene and consult a doctor if severe.",
+      "id": "Jaga kebersihan kulit dan konsultasikan ke dokter jika parah."
+    }
+  },
+  "(vertigo) Paroymsal Positional Vertigo": {
+    "label": {
+      "en": "Paroxysmal Positional Vertigo (BPPV)",
+      "id": "Vertigo Posisi Paroksismal"
+    },
+    "description": {
+      "en": "A condition causing sudden sensation of spinning due to inner ear problems.",
+      "id": "Kondisi yang menyebabkan sensasi berputar tiba-tiba akibat masalah pada telinga dalam."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Perform Epley maneuver and consult an ENT specialist.",
+      "id": "Lakukan manuver Epley dan konsultasikan ke dokter THT."
+    }
+  },
+  "AIDS": {
+    "label": {
+      "en": "AIDS (Acquired Immunodeficiency Syndrome)",
+      "id": "AIDS (Sindrom Defisiensi Imun Dapatan)"
+    },
+    "description": {
+      "en": "A chronic, potentially life-threatening condition caused by HIV interfering with the body's ability to fight infection.",
+      "id": "Kondisi kronis yang mengancam jiwa akibat virus HIV yang merusak kemampuan tubuh melawan infeksi."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Immediate antiretroviral therapy (ART) and specialist care required.",
+      "id": "Segera lakukan terapi antiretroviral (ART) dan perawatan spesialis."
+    }
+  },
+  "Alcoholic hepatitis": {
+    "label": {
+      "en": "Alcoholic Hepatitis",
+      "id": "Hepatitis Alkoholik"
+    },
+    "description": {
+      "en": "Liver inflammation caused by drinking too much alcohol.",
+      "id": "Peradangan hati yang disebabkan oleh konsumsi alkohol berlebihan."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Stop alcohol consumption immediately and seek medical help.",
+      "id": "Hentikan konsumsi alkohol segera dan cari bantuan medis."
+    }
+  },
+  "Allergy": {
+    "label": {
+      "en": "Allergy",
+      "id": "Alergi"
+    },
+    "description": {
+      "en": "An immune system reaction to a foreign substance usually not harmful to your body.",
+      "id": "Reaksi sistem kekebalan tubuh terhadap zat asing yang biasanya tidak berbahaya."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Avoid triggers and take antihistamines.",
+      "id": "Hindari pemicu alergi dan minum obat antihistamin."
+    }
+  },
+  "Arthritis": {
+    "label": {
+      "en": "Arthritis",
+      "id": "Radang Sendi (Arthritis)"
+    },
+    "description": {
+      "en": "Swelling and tenderness of one or more joints.",
+      "id": "Pembengkakan dan nyeri pada satu atau lebih sendi."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Physical therapy and pain management medication.",
+      "id": "Lakukan fisioterapi dan gunakan obat pereda nyeri."
+    }
+  },
+  "Bronchial Asthma": {
+    "label": {
+      "en": "Bronchial Asthma",
+      "id": "Asma Bronkial"
+    },
+    "description": {
+      "en": "A condition in which airways narrow and swell and may produce extra mucus.",
+      "id": "Kondisi di mana saluran napas menyempit, membengkak, dan memproduksi lendir berlebih."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Use inhalers as prescribed and avoid respiratory triggers.",
+      "id": "Gunakan inhaler sesuai resep dan hindari pemicu pernapasan."
+    }
+  },
+  "Cervical spondylosis": {
+    "label": {
+      "en": "Cervical Spondylosis",
+      "id": "Spondilosis Servikal (Saraf Leher)"
+    },
+    "description": {
+      "en": "Age-related wear and tear affecting the spinal disks in your neck.",
+      "id": "Keausan terkait usia yang mempengaruhi cakram tulang belakang di leher."
+    },
+    "severity": "medium",
+    "recommendation": {
+      "en": "Physical therapy, posture correction, and pain relief.",
+      "id": "Fisioterapi, perbaiki postur tubuh, dan pereda nyeri."
+    }
+  },
+  "Chicken pox": {
+    "label": {
+      "en": "Chicken Pox",
+      "id": "Cacar Air"
+    },
+    "description": {
+      "en": "A highly contagious viral infection causing an itchy, blister-like rash.",
+      "id": "Infeksi virus yang sangat menular menyebabkan ruam melepuh dan gatal."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Use calamine lotion for itching and isolate to prevent spread.",
+      "id": "Gunakan lotion calamine untuk gatal dan isolasi diri untuk mencegah penularan."
+    }
+  },
+  "Chronic cholestasis": {
+    "label": {
+      "en": "Chronic Cholestasis",
+      "id": "Kolestasis Kronis"
+    },
+    "description": {
+      "en": "A condition where bile flow from the liver acts slowly or stops completely.",
+      "id": "Kondisi di mana aliran empedu dari hati melambat atau berhenti total."
+    },
+    "severity": "high",
+    "recommendation": {
+      "en": "Requires medical diagnosis to treat the underlying liver condition.",
+      "id": "Memerlukan diagnosa medis untuk mengobati kondisi hati yang mendasarinya."
+    }
+  },
+  "Common Cold": {
+    "label": {
+      "en": "Common Cold",
+      "id": "Pilek / Flu Biasa"
+    },
+    "description": {
+      "en": "A viral infection of your nose and throat (upper respiratory tract).",
+      "id": "Infeksi virus pada hidung dan tenggorokan (saluran pernapasan atas)."
+    },
+    "severity": "low",
+    "recommendation": {
+      "en": "Rest, hydration, and over-the-counter cold remedies.",
+      "id": "Istirahat cukup, hidrasi, dan obat flu yang dijual bebas."
+    }
+  }
+}
