@@ -39,4 +39,3 @@
 "Urinary tract infection",
 "Varicose veins",
 "Hepatitis A",
-"(vertigo) Paroymsal Positional Vertigo",
